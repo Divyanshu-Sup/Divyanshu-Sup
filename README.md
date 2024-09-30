@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Divyanshu
 - 👀 I’m interested in Working
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C & C++
 - 💞️ I’m looking to collaborate on Anything
 - 📫 How to reach me IDK
 - 😄 Pronouns: he/him
